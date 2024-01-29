@@ -1,5 +1,5 @@
 ---
-title: "**STAT 6390, Deep Learning-Project 05**"
+title: "**Convolution Neural Network**"
 author: "**Indrajith Wasala Mudiyanselage**"
 output: pdf_document
 header-includes: 
