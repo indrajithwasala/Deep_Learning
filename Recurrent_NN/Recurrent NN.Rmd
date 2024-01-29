@@ -1,5 +1,5 @@
 ---
-title: "**Recurrent NN**"
+title: "**Recurrent Neural Network**"
 author: "**Indrajith Wasala Mudiyanselage**"
 output: pdf_document
 header-includes: 
@@ -17,7 +17,7 @@ a) Please find the code in Section 02. When comparing models with dictionary siz
 \centering
 \begin{tabular}{|c|c|}
 \hline
-Dictonary size & RNN model accuracy\\
+Dictionary size & RNN model accuracy\\
 \hline
 1000 & 0.50408\\
 5000 & 0.50440\\
