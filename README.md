@@ -1,1 +1,3 @@
 # Deep_Learning
+
+Welcome to the Deep Learning Projects repository, a curated selection of projects demonstrating the real-world application of neural networks through the R programming language. This repository is valuable for individuals keen on deep learning and caters to all proficiency levels. Inside this repository, you'll encounter a broad spectrum of projects covering various domains. These projects offer valuable insights and practical advice to enhance your understanding and proficiency in utilizing neural networks with R. Whether you're a novice or an expert, there's something here to elevate your skills and knowledge in deep learning.
